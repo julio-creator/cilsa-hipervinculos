@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(176, 231, 231);
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border: 3px solid black;
+  border-radius: 14px;
+}
+
+h2{
+  background-color: black;
+  color: white;
+}
+
+h3{
+  background-color: brown;
+  width: 110px;
+}
+
+a{
+  color: rgb(255, 0, 89);
+  text-decoration: none;
+}
+
+li{
+  height: 30px;
+}
